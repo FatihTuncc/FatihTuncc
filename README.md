@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👨‍💻 Hi, I'm Fatih Tunc.
 
-<!--
-**FatihTuncc/FatihTuncc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In 2016, I did an internship in Portugal about solar panels. In 2018, I started my engineering education at Sakarya University of Applied Sciences. During my education, I developed myself in the field of electronics and hardware design. I continue to improve myself in the field of embedded software and hardware design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programs
+* Altium Designer
+* KiCAD
+* LTspice
+* Orcad Pspice
+* Microsoft Office
+* SQL
+
+---
+
+## 📱 Social Media and Blog
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fatih-tunc//)  
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatihTuncc)](https://github.com/anuraghazra/github-readme-stats)
+          
